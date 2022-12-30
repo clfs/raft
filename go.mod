@@ -9,4 +9,5 @@ require (
 	github.com/hashicorp/go-hclog v0.9.1
 	github.com/hashicorp/go-msgpack v0.5.5
 	github.com/stretchr/testify v1.3.0
+	github.com/thepudds/fzgen v0.4.2
 )
